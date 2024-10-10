@@ -15,5 +15,9 @@
         {
             return x*y;
         }
+        public int divide(int x, int y) //local changes commited in local repos
+        {
+            return x % y;
+        }
     }
 }
