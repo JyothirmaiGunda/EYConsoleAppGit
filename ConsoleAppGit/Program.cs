@@ -15,5 +15,9 @@
         {
             return x*y;
         }
+        public int mimus(int x,int y)
+        {
+            return x-y;
+        }
     }
 }
